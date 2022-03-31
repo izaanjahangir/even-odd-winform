@@ -1,0 +1,11 @@
+E:\csharp\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe.config
+E:\csharp\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe
+E:\csharp\EvenOdd\EvenOdd\bin\Debug\EvenOdd.pdb
+E:\csharp\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.AssemblyReference.cache
+E:\csharp\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.SuggestedBindingRedirects.cache
+E:\csharp\EvenOdd\EvenOdd\obj\Debug\EvenOdd.Form1.resources
+E:\csharp\EvenOdd\EvenOdd\obj\Debug\EvenOdd.Properties.Resources.resources
+E:\csharp\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.GenerateResource.cache
+E:\csharp\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.CoreCompileInputs.cache
+E:\csharp\EvenOdd\EvenOdd\obj\Debug\EvenOdd.exe
+E:\csharp\EvenOdd\EvenOdd\obj\Debug\EvenOdd.pdb
